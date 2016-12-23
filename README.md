@@ -1,3 +1,5 @@
-# lixuetao12.github.io
-#index
-#my test
+<html>
+<script>
+alert('test')
+</script>
+</html>
